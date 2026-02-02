@@ -1,10 +1,6 @@
 <div align="center">
- <pre> __   __         __   __             _
- |    |  .___    |    |    ___    ___/
- |\  /|  /   \   |\  /|   /   `  /   |
- | \/ |  |   '   | \/ |  |    | ,'   |
- /    /  /     / /    /  `.__/| `___,'
-                                     `
+ <pre> 
+  (っ◔◡◔)っ ♥ ChickenMonsta ♥
 </pre>
 </div>
 <div align="center">
@@ -22,14 +18,14 @@
 
 <div align="center">
 <samp>
- 🖖 Code Lover | 🔐 Security Engineer | ☕️ Coffe Lover | 🌵 Web Developer | 💻 Bug Hunter
+ 🖖 Code Lover | 🔐 Security Engineer | 🍵 Matcha Lover | 🌵 Web Developer | 💻 Bug Hunter
  </samp>
  <br>
  <samp>
-   <div>I'm not responsible for what you guys do using my tools!</div>
- <b>I Hope You Enjoy My Tools</b>
+   <div>I'm still learning!</div>
+ <b>I Hope Y'all love what i did</b>
  <br>
- <b>My Telegram Channel : https://t.me/madexploits</b>
+ <b>
  </samp>
 </div>
 
@@ -63,13 +59,13 @@
 
 
 <div align="center">
- <samp><h1>MrMad's Github stats</h1></samp> 
+ <samp><h1>ChickenMonsta Github stats</h1></samp> 
 </div>
 
 
 <div align="center">
  <samp>
   <h1> Support me : </h1>
-<a href="https://www.buymeacoffee.com/muhsatria"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=muhsatria&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://trakteer.id/AyaRel/tip"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=muhsatria&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
  </samp>
 </div>
